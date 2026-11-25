@@ -1,4 +1,4 @@
-# MoniCrowd IEAA  
+# MoniCrowd Fingerprinting and Machine Learning Toolkit 
 **Information Elements Automatic Analyser for Wi-Fi Fingerprinting**
 
 ---

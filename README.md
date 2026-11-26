@@ -150,6 +150,8 @@ The complete MoniCrowd architecture includes sensing devices, edge processing, c
 
 This repository focuses on the research tools associated with Wi-Fi fingerprinting, experimental data processing, and machine learning.
 
+The toolkit supports the offline development and evaluation of fingerprinting rules and machine learning models. Selected fingerprinting rules and trained ML models are incorporated into the operational [crowd-sensor](https://github.com/sensinglab/crowd-sensor), enabling local device-count estimation without executing the experimental analysis, model training, or threshold optimization procedures during normal operation.
+
 For the overall architecture and related components, see:
 
 - **MoniCrowd:** https://github.com/sensinglab/monicrowd
